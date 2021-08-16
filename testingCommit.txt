@@ -1,2 +1,4 @@
 jnd;wenc;wlkenc;lwe
 added new commit to git
+
+doing second commit
